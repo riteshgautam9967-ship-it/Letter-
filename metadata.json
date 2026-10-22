@@ -1,0 +1,6 @@
+{
+  "name": "The Farewell Portfolio",
+  "description": "An interactive resignation letter crafted like an editorial portfolio page, complete with impact metrics, project handoffs, team gratitude, and exportable formal notice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
